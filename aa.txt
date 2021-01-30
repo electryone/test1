@@ -11,4 +11,5 @@ fix1
 modify aa
 modefy bb
 cc
-branch b
+merge branch b
+
